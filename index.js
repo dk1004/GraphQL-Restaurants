@@ -12,7 +12,7 @@ var restaurants = [
     dishes: [
       {
         name: "Swordfish grill",
-        price: 27,
+        price: 28,
       },
       {
         name: "Roasted Broccily ",
